@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/snipe/static/css/main.75a14630.chunk.css",
+    "main.js": "/snipe/static/js/main.a59b8ffa.chunk.js",
+    "main.js.map": "/snipe/static/js/main.a59b8ffa.chunk.js.map",
+    "runtime-main.js": "/snipe/static/js/runtime-main.4a756aea.js",
+    "runtime-main.js.map": "/snipe/static/js/runtime-main.4a756aea.js.map",
+    "static/css/2.e094434a.chunk.css": "/snipe/static/css/2.e094434a.chunk.css",
+    "static/js/2.225fbe88.chunk.js": "/snipe/static/js/2.225fbe88.chunk.js",
+    "static/js/2.225fbe88.chunk.js.map": "/snipe/static/js/2.225fbe88.chunk.js.map",
+    "index.html": "/snipe/index.html",
+    "static/css/2.e094434a.chunk.css.map": "/snipe/static/css/2.e094434a.chunk.css.map",
+    "static/css/main.75a14630.chunk.css.map": "/snipe/static/css/main.75a14630.chunk.css.map",
+    "static/js/2.225fbe88.chunk.js.LICENSE.txt": "/snipe/static/js/2.225fbe88.chunk.js.LICENSE.txt",
+    "static/media/Register.css": "/snipe/static/media/Background.ce6fbd57.png",
+    "static/media/Snipe Research.eb0c7750.png": "/snipe/static/media/Snipe Research.eb0c7750.png",
+    "static/media/semantic.min.css": "/snipe/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/image2.8eb7805b.jpg": "/snipe/static/media/image2.8eb7805b.jpg",
+    "static/media/image6.a59a4c5e.jpg": "/snipe/static/media/image6.a59a4c5e.jpg",
+    "static/media/image7.38963afa.jpg": "/snipe/static/media/image7.38963afa.jpg",
+    "static/media/knowledgeculture.d8d06dea.jpg": "/snipe/static/media/knowledgeculture.d8d06dea.jpg",
+    "static/media/threecards.0fe582d7.jpg": "/snipe/static/media/threecards.0fe582d7.jpg",
+    "static/media/About.css": "/snipe/static/media/twopeopleworking.c10072dd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a756aea.js",
+    "static/css/2.e094434a.chunk.css",
+    "static/js/2.225fbe88.chunk.js",
+    "static/css/main.75a14630.chunk.css",
+    "static/js/main.a59b8ffa.chunk.js"
+  ]
+}
