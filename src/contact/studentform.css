@@ -1,0 +1,31 @@
+.formclass {
+  text-align: center;
+}
+.formclasstitle {
+  padding: 30px;
+  font-weight: bolder;
+}
+.formclass__name {
+  padding: 10px;
+}
+/* .formclass__topics {
+  text-align: center;
+  font-weight: bolder;
+} */
+.formclass__radiobtn {
+  text-align: left;
+  margin-left: 655px;
+}
+.formclass__text {
+  padding-bottom: 7px;
+}
+.formclass__btn {
+  background-color: darkgreen;
+  border-radius: 3px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.formclass__topics-title {
+  font-weight: bolder;
+  margin-top: 7px;
+}

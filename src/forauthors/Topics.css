@@ -1,0 +1,48 @@
+.List {
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  margin: 30px;
+  color: black;
+  font-size: 15px;
+}
+.listItem {
+  padding: 10px;
+}
+.listItem:hover {
+  color: red;
+}
+
+.listItem:active {
+  color: red;
+}
+.topicscont {
+  width: 70%;
+  height: 70%;
+}
+*/ .topicsTable {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+.topicsTable td,
+.topicsTable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.topicsTable tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.topicsTable tr:hover {
+  background-color: #ddd;
+}
+
+.topicsTable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04aa6d;
+  color: white;
+}

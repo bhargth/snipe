@@ -1,0 +1,31 @@
+.contactfirstcontainer {
+  display: flex;
+  justify-content: space-between;
+}
+.contactfirstcontainer_firstcard {
+  margin-left: 240px;
+}
+.contactfirstcontainer_blackcard {
+  margin-right: 240px;
+}
+
+.contactfirstcontainer_card--btn {
+  margin-top: 30px;
+}
+.contactfirstcontainer_blackcard--btn {
+  margin-top: 90px;
+}
+.contactfirstcontainer_secondcard--btn {
+  margin-top: 70px;
+}
+.contactsecondcontainer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+.contactsecondcontainer_blackcard--btn {
+  margin-top: 110px;
+}
+.contactsecondcontainer_card--btn {
+  margin-top: 70px;
+}

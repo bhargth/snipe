@@ -1,0 +1,27 @@
+@import "../../src/App.scss";
+@import "../../src/Colors.scss";
+
+
+.container{
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 150vh;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150vh;
+    background-color:$primery-color ;
+    color:$secondary-color;
+    flex-direction: column;
+  }
+
+  .create-form label{
+    color: $secondary-color;
+    font-size: 12px !important;
+  }
+ 

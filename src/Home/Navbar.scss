@@ -1,0 +1,36 @@
+@import "../../src/App.scss";
+@import "../../src/Colors.scss";
+
+.navbar{
+    background-color:  $primery-color;
+}
+
+.navbar-brand{
+    width: 150px;
+    color: $secondary-color;
+}
+.navbar a{
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    color: $secondary-color;
+    font-weight:lighter;
+}
+.navbar a :hover{
+    color: $hover-color !important;
+}
+
+@media(max-width:991px){
+    .navbar-brand{
+        font-size: 1.5rem !important;
+
+    }
+}
+
+.menu.active{
+    font-weight: bold;
+    color: $third-color;
+}
+
+
+
+
